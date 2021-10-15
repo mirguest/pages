@@ -1,2 +1,6 @@
 #+title: Home Page
+#+author: Tao Lin
 * Home Page
+
+- [[https://mirguest.github.io/book.html][收藏图书]]
+- [[https://mirguest.github.io/paper/][阅读文章]]
